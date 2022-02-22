@@ -1,0 +1,4 @@
+Git commands i used to get all changes of the main branch locally.
+
+1 git fetch
+2 git pull
